@@ -12,7 +12,7 @@ Once you upload an image to your repository, you can link link to it like this (
 ![Hamburger and fries]
 (https://www.pexels.com/sv-se/foto/brod-mat-smorgas-restaurang-2983101/)
 ![Brownie]
-(https://unsplash.com/photos/LjtviHokbr4)
+(https://unsplash.com/photos/LjtviHokbr4.jpg)
 ![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
 If you need to resize images, you have to use an HTML tag, like this:
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
