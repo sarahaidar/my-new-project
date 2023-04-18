@@ -48,7 +48,7 @@ Additional functionality like as meal planning, grocery list production, and con
  * list here the sources of inspiration 
 * do not use code, images, data etc. from others without permission
 * when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
-  <br> [Köket]
+  
   (https://www.koket.se)
-  <br>[Köket](https://www.koket.se) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
-* etc
+  <br>[Köket](https://www.koket.se)/[Recept](https://recept.se)/[Pinterest](https://www.pinterest.se/ideas/food-and-drink/918530398158/)
+
