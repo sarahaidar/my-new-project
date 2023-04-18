@@ -45,5 +45,5 @@ Additional functionality like as meal planning, grocery list production, and con
 * Food images from Unsplash and Pexels
  <br>[Köket]
 * when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
-  <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
+  <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://www.koket.se#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
 * etc
