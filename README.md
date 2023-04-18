@@ -43,7 +43,7 @@ Additional functionality like as meal planning, grocery list production, and con
 ## Acknowledgments
 * Precipe ideas and insperation from https://recept.se and https://www.koket.se 
 * Food images from Unsplash and Pexels
- <br>[Köket](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks)
+ <br>[Köket] och [Recept]
 * when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
   <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
 * etc
