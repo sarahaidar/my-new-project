@@ -41,14 +41,12 @@ Ensure that the recommendations are correct and appropriate to the user's prefer
 ## What next?
 Additional functionality like as meal planning, grocery list production, and connectivity with smart home devices could be added to the project. Collaboration with nutritionists and chefs may help increase the quality of the recipe suggestions.
 ## Acknowledgments
-* Precipe ideas and insperation from https://recept.se and https://www.koket.se 
+* Recipe ideas and insperation from:
+  <br>[Köket](https://www.koket.se), [Recept](https://recept.se) och [Pinterest](https://www.pinterest.se/ideas/food-and-drink/918530398158/)
 * Food images from Unsplash and Pexels
- <br>[Köket]
 * when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
  * list here the sources of inspiration 
 * do not use code, images, data etc. from others without permission
 * when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
-  
-  (https://www.koket.se)
-  <br>[Köket](https://www.koket.se)/[Recept](https://recept.se)/[Pinterest](https://www.pinterest.se/ideas/food-and-drink/918530398158/)
+
 
